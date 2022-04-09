@@ -1,10 +1,10 @@
 
 ## <p align="center"> 👉 👨‍💻 About me  👨‍💻👈 </p>
-Hi! My name is Eduardo Delgado, im a junior software developer from northern Spain since 2020..
+Hi! My name is <b>Eduardo Delgado</b>, im a junior software developer from northern Spain since 2020.
 
 I love learning new things everyday and creating projects that people or me can enjoy, that's why I started my career developing programs. 
 
-- 🌱 I’m currently learning .NET, Java, Python ...
+- 🌱 I’m currently learning .NET, Java, Python and some.
 - 📫 Contact with me at <b>delgadopandoeduardo@gmail.com
 
   ## <p align="center">⌛ Used ⌛</p>
@@ -15,7 +15,7 @@ I love learning new things everyday and creating projects that people or me can 
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" />
    </p>  
    
-  ## <p align="center"> 🛠 Tools 🛠 </p>
+  ## <p align="center"> 🛠 My Tools 🛠 </p>
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
