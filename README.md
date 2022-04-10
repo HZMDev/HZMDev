@@ -24,7 +24,7 @@ I love learning new things everyday and creating projects that people or me can 
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg"/>
    </p>
    
-  ## <p align="center">🎯 Scope Applications 🎯</p>
+  ## <p align="center">🎯 Scope Platforms 🎯</p>
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" />  
