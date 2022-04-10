@@ -32,7 +32,7 @@ I love learning new things everyday and creating projects that people or me can 
   
   ## <p align="center">📊 General Stats 📊</p>
  <p align="center">
-      <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark"/>
+      <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=HZMDev&theme=dark"/>
  </p>
   
   ## <p align="center"> 📊 Advanced Stats And Most Used Language 📊 </p>
