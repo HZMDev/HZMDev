@@ -45,5 +45,5 @@ I love learning new things everyday and creating projects that people or me can 
 <p align="center">
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=HZMDev&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
     <br>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZMDev&layout=compact&theme=react" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZMDev&layout=compact" />
 </p>
