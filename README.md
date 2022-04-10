@@ -1,3 +1,9 @@
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delgadopandoeduardo@gmail.com)](mailto:delgadopandoeduardo@gmail.com) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HZMDev.HZMDev)
+
+<p align="center">
+<img width="70%" height="285" src="https://raw.githubusercontent.com/HZMDev/HZMDev/main/IntroGithub.gif" alt="👋 Hi there! I'm Eduardo Delgado"
+      title="👋 Hi there! I'm Eduardo Delgado A.K.A HZMDev"/>
+  </p>
 
 ## <p align="center"> 👉 👨‍💻 About me  👨‍💻👈 </p>
 Hi! My name is <b>Eduardo Delgado</b>, im a junior software developer from northern Spain since 2020.
